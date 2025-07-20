@@ -1469,7 +1469,7 @@ def main(holdout_type, model_name, algorithms=None):
         all_sigma_stats = {}
     
         # Perform robust trial seeds
-        #trying to run 5 seeds, based on gaming account number haha, 880239294310: 8, 80, 239, 294, 310
+        #trying to run 5 seeds, based on gaming CSGO account number \\>_<//, 880239294310: 8, 80, 239, 294, 310
         print(f"\nPerforming {len(TRIAL_SEEDS)} robust trial seeds: {TRIAL_SEEDS}")
         
         for i, split_idx in enumerate(SPLIT_INDICES):
