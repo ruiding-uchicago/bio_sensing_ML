@@ -109,6 +109,6 @@ Optional (for advanced algorithms):
 
 ## Citation
 
-If you use this code, please cite the related research on weak supervised representation learning for molecular sensing applications.
+If you use this code, please cite the related research.
 
 (Raw data supporting this research is available through controlled access due to proprietary sensor technology and ongoing patent considerations. For collaboration opportunities and data access, please contact xiaoaoshi@uchicago.edu and ruiding@uchicago.edu with your institutional affiliation and research objectives)
