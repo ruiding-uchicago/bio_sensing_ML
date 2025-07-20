@@ -4,7 +4,7 @@ This project implements machine learning approaches for analyzing molecular sens
 
 ## Overview
 
-The project focuses on weak supervised learning for molecular sensing, using sensor signal data to predict concentrations of different molecular targets including:
+The project focuses on supervised learning for molecular sensing, using sensor signal data to predict concentrations of different molecular targets including:
 - **Bacteria** (CFU concentrations)
 - **IgG** (Immunoglobulin G with Au40 and HRPAB setups)
 - **HRP** (Horseradish Peroxidase) which are **Control samples**
